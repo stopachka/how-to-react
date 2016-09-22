@@ -1,5 +1,5 @@
 ---
-title: How To React
+title: O
 layout: Center
 style: |
   .exerslide-slide .Center-wrapper {
@@ -7,8 +7,8 @@ style: |
   }
   .exerslide-slide h1 {
     color: #444;
-    font-size: 500%;
-    margin-bottom: 50px;
+    font-size: 1500%;
+    margin-bottom: 0px;
     text-align: center;
   }
 scale:

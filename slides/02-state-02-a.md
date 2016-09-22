@@ -1,5 +1,4 @@
 ---
-title: How To React
 layout: Center
 style: |
   .exerslide-slide .Center-wrapper {
@@ -7,11 +6,10 @@ style: |
   }
   .exerslide-slide h1 {
     color: #444;
-    font-size: 500%;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
     text-align: center;
   }
-scale:
-  content_width: 39
-  column_width: 0.6
 ---
+
+<h1><strong style="color:blue">↑</strong> States</h1>
+<h1>&nbsp;</h1>
